@@ -1,5 +1,8 @@
 # employee-attrition-prediction-AIML
 
+@author: Nikhil Jagnade
+@date: 27 Feb 2023
+
 Employee attrition refers to the rate at which employees leave an organization over time. It is a common problem faced by many companies, and it can have a significant impact on the company's productivity, revenue, and culture.
 
 The problem of employee attrition can be framed as a machine learning (ML) problem, where the goal is to predict which employees are most likely to leave the company based on their demographic, job-related, and performance-related attributes. The ML model can be trained on historical employee data, including the reasons why employees left the company, to predict the likelihood of attrition for current employees.
@@ -10,6 +13,8 @@ Given a dataset of employee information, including demographic, job-related, and
 
 
 The machine learning (ML) process or project pipeline typically involves the following steps:
+
+![image](https://user-images.githubusercontent.com/64134540/221500284-f19202c1-47e3-4b0c-8768-99ecdcaaf301.png)
 
 ### 1.Problem Definition: 
 Defining the problem that the ML model aims to solve, such as classification, regression, or clustering.
@@ -39,3 +44,6 @@ Deploying the trained ML model in a production environment, such as a web applic
 Monitoring the performance of the deployed ML model to ensure its accuracy and reliability over time.
 
 The above steps are iterative and may require revisiting and modifying previous steps based on the results of the current step. The goal is to develop an accurate and robust ML model that solves the problem effectively and efficiently.
+
+![image](https://user-images.githubusercontent.com/64134540/221500442-84667eef-111f-499d-b9f9-0a4e0c6c0726.png)
+
