@@ -1,0 +1,9 @@
+Attrition_data: CSV
+
+Enterprise_management_data: CSV
+
+Employee_PI_data: Excel
+
+Action_Item:
+
+Merge all above data into one dataframe and rerun the code.
